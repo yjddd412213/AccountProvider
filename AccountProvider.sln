@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogBase", "CatalogBase\CatalogBase.csproj", "{B870159E-1192-4AEA-9440-F1F85E0E5F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "CommonLib\CommonLib.csproj", "{A02B16B1-4F11-4019-8C1E-3FD5C62A5E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountProvider", "AccountProvider\AccountProvider.csproj", "{601C9B39-921B-4ED0-89B5-5EB6FD25316B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B870159E-1192-4AEA-9440-F1F85E0E5F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B870159E-1192-4AEA-9440-F1F85E0E5F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B870159E-1192-4AEA-9440-F1F85E0E5F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B870159E-1192-4AEA-9440-F1F85E0E5F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02B16B1-4F11-4019-8C1E-3FD5C62A5E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02B16B1-4F11-4019-8C1E-3FD5C62A5E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02B16B1-4F11-4019-8C1E-3FD5C62A5E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02B16B1-4F11-4019-8C1E-3FD5C62A5E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601C9B39-921B-4ED0-89B5-5EB6FD25316B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601C9B39-921B-4ED0-89B5-5EB6FD25316B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601C9B39-921B-4ED0-89B5-5EB6FD25316B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601C9B39-921B-4ED0-89B5-5EB6FD25316B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
